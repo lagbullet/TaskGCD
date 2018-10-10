@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\GCDApp\GCDApp\bin\Debug\GCDApp.exe.config
+C:\Users\User\source\repos\GCDApp\GCDApp\bin\Debug\GCDApp.exe
+C:\Users\User\source\repos\GCDApp\GCDApp\bin\Debug\GCDApp.pdb
+C:\Users\User\source\repos\GCDApp\GCDApp\obj\Debug\GCDApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GCDApp\GCDApp\obj\Debug\GCDApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GCDApp\GCDApp\obj\Debug\GCDApp.exe
+C:\Users\User\source\repos\GCDApp\GCDApp\obj\Debug\GCDApp.pdb
+C:\Users\Alexander\source\repos\GCDApp\GCDApp\bin\Debug\GCDApp.exe.config
+C:\Users\Alexander\source\repos\GCDApp\GCDApp\bin\Debug\GCDApp.exe
+C:\Users\Alexander\source\repos\GCDApp\GCDApp\bin\Debug\GCDApp.pdb
+C:\Users\Alexander\source\repos\GCDApp\GCDApp\obj\Debug\GCDApp.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\GCDApp\GCDApp\obj\Debug\GCDApp.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\GCDApp\GCDApp\obj\Debug\GCDApp.exe
+C:\Users\Alexander\source\repos\GCDApp\GCDApp\obj\Debug\GCDApp.pdb
